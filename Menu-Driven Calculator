@@ -1,0 +1,27 @@
+🧮 Menu-Driven Calculator (Python OOP + Exception Handling)
+📘 Overview
+
+This is a simple yet structured calculator program built in Python using Object-Oriented Programming (OOP) and exception handling.
+It performs basic arithmetic operations — addition, subtraction, multiplication, and division — and allows users to run multiple calculations through a menu-driven interface.
+
+🚀 Features
+
+Built with Python Classes and Methods
+
+Exception Handling for invalid inputs and division by zero
+
+Loop-based Menu System for continuous user interaction
+
+Clean and easy-to-understand code — great for beginners and practice projects
+
+🧠 Concepts Used
+
+Class & Object
+
+Functions (Methods)
+
+Loops (while loop)
+
+Conditional Statements (if-elif-else)
+
+Exception Handling (try-except)
